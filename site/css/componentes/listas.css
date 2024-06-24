@@ -1,0 +1,17 @@
+ul, ol {
+
+    padding: 20px;
+
+}
+
+ul li {
+
+    list-style-type: disc;
+
+}
+
+ol li {
+
+    list-style-type: auto;
+
+}
