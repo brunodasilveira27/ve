@@ -1,0 +1,104 @@
+.rodape {
+
+    background: #1d392d;
+    color: #fff;
+    padding: 10px;
+
+}
+
+.rodape .titulo {
+
+    color: #fff;
+
+}
+
+.rodape .link {
+
+    color: #70FF70;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+.rodape .link:hover {
+
+    color: #9EFF9E;
+
+}
+
+.rodape .svg--icone {
+
+    fill: #70FF70;
+
+}
+
+.rodape .svg--icone {
+
+    fill: #9EFF9E;
+
+}
+
+.rodape .container {
+
+    width: 100%;
+    max-width: 320px;
+
+}
+
+.rodape .contato {
+
+    padding-right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.nossas-politicas .link {
+
+    padding: 10px;
+
+}
+
+.redes-sociais {
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+.redes-sociais li {
+
+    margin-right: 25px;
+    list-style-type: none;
+
+}
+
+.copyright {
+
+    height: 40px;
+    font-size: max(13px, .8vw);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.rodape-fixo {
+
+    height: 50px;
+    background: #0e1d17;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.rodape-fixo .svg--icone {
+
+    margin: 0 20px;
+
+}
