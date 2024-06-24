@@ -1,0 +1,53 @@
+h1, h2, h3, h4, h5, h6 {
+
+    font-weight: 1000;
+
+}
+
+table th {
+
+    font-weight: 800;
+
+}
+
+b, strong {
+
+    font-weight: 600;
+
+}
+
+h1 {
+
+    font-size: max(35px, 3vw);
+
+}
+
+h2 {
+
+    font-size: max(32px, 2.7vw);
+
+}
+
+h3 {
+
+    font-size: max(29px, 2.4vw);
+
+}
+
+h4 {
+
+    font-size: max(26px, 2.1vw);
+
+}
+
+h5 {
+
+    font-size: max(23px, 1.8vw);
+
+}
+
+h6 {
+
+    font-size: max(20px, 1.5vw);
+
+}
