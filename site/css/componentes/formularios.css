@@ -1,0 +1,44 @@
+fieldset, legend, input, textarea, select, button {
+
+    padding: 10px;
+
+}
+
+fieldset {
+
+    border: 1px solid;
+
+}
+
+input, textarea, select, button {
+
+    width: 100%;
+
+}
+
+input, textarea, select {
+
+    background: #fff;
+    color: #000;
+    border: 1px solid #ddd;
+
+}
+
+select, button {
+
+    cursor: pointer;
+
+}
+
+button {
+
+    background: #333;
+    color: #fff;
+
+}
+
+button:hover {
+
+    background: #222;
+
+}
