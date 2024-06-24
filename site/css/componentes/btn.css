@@ -1,0 +1,18 @@
+.btn {
+
+    padding: 10px;
+
+}
+
+.btn--link {
+
+    background: #fff;
+    color: #000;
+
+}
+
+.btn--link:hover {
+
+    color: #1d392d;
+
+}
