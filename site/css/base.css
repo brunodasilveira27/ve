@@ -1,0 +1,96 @@
+* {
+
+    background: transparent;
+    color: inherit;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 100%;
+    font-family: monospace;
+    font-weight: normal;
+    outline: none;
+    resize: none;
+    list-style-type: none;
+    text-decoration: none;
+
+}
+
+html, body {
+
+    width: 100vw;
+    height: 100vh;
+    background: #eee;
+    color: #000;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+
+}
+
+svg {
+
+    height: 30px;
+    fill: #333;
+
+}
+
+img {
+
+    max-width: 100%;
+
+}
+
+mark {
+
+    background: #1d392d;
+    color: #fff;
+    padding: 3px;
+
+}
+
+b, strong, h1, h2, h3, h4, h5, h6 {
+
+    color: #1d392d;
+
+}
+
+a {
+
+    color: #008000;
+
+}
+
+a:hover {
+
+    color: #025a02;
+
+}
+
+p {
+
+    padding: 5px 0;
+
+}
+
+.item__fixo {
+
+    width: 100%;
+    position: fixed;
+    right: 0;
+    left: 0;
+
+}
+
+.item__fixo--top {
+
+    top: 0;
+
+}
+
+.item__fixo--bottom {
+
+    bottom: 0;
+
+}
